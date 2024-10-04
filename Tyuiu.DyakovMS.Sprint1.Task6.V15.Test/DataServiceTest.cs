@@ -6,7 +6,7 @@ namespace Tyuiu.DyakovMS.Sprint1.Task6.V15.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void CheckLettersCount()
+        public void TestCheckLettersCount()
         {
             DataService ds = new DataService();
             string value = "stroka...";
